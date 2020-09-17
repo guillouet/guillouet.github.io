@@ -2102,7 +2102,9 @@ input, select, textarea {
 			border-radius: 0.35em;
 			display: block;
 		}
-
+			img.rounded-corners {
+ 			border-radius: 30px;
+		}
 		.image.left {
 			float: left;
 			margin: 0 1.5em 1em 0;
